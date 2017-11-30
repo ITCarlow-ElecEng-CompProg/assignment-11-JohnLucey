@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511794662 source:d:\tts\computer programming\ex 11\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
+1511795216 source:h:\tts\computer programming\ex 11\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
